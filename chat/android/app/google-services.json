@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57122264777",
+    "project_id": "chat---android-bcbfe",
+    "storage_bucket": "chat---android-bcbfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57122264777:android:1c5f49f8168870f00c5f18",
+        "android_client_info": {
+          "package_name": "br.com.dasilva.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57122264777-tnr1cjth9fg5gtbj08ll2qt1res4u5de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.dasilva.chat",
+            "certificate_hash": "7e6e6673c6084b75050415e3e85320e32753c30f"
+          }
+        },
+        {
+          "client_id": "57122264777-ivpliavbbuji8mpbm2ttqr2gsk28hd1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2s0DOANT5NOvtgc2tqVePNZIi2aOoMLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57122264777-ivpliavbbuji8mpbm2ttqr2gsk28hd1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
